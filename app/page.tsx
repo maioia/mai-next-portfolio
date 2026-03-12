@@ -1,7 +1,13 @@
+import Hero from "./Hero";
+
 export default function page() {
   return (
     <>
-      <h2 className="text-3xl font-bold underline">my text here</h2>
+      <main className="relative bg-black flex justify-center items-center flex-col overflow-hidden mx-auto sm:px-10 px-5">
+        <div className="max-w-7xl w-full">
+          <Hero />
+        </div>
+      </main>
     </>
   );
 }

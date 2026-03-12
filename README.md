@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hello, I'm [Mai]! 🚀
 
-## Getting Started
+[I am an Experienced Frontend Developer specializing in SPA web applications. I have an eye for
+detail and can utilize innovative skills in designing and frontend development and responsive
+designs. I have great interpersonal skills that can work with clients in a friendly and amicable
+manner.]
 
-First, run the development server:
+### What can I do :👩‍💻
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+• MPA and SPA design and development.
+• Saas app design in frontend .
+• UI/UX developing.
+• Responsive designs to fit all screens.
+• Web applications design and frontend developing.
+• API connecting to browser.
+• HTML,CSS, vanilla javascript and ES6.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Technical Skills ⚙️🛠️💪
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+• Frontend: React.js, NEXT.js, HTML, CSS, JS, TypeScript, Redux, SASS.
+• CSS frameworks: Bootstrap - CSS Tailwind.
+• Version Control System : Git, Vercel, Netlify.
+• UI Design: Figma, Canva, AdobeXD, Photoshop, illustrator, Indesign.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 💡 Portfolio tools used: ⚒️✍️💻
 
-## Learn More
+    [1] NEXT.js
+    [2] Framer motion
+    [3] TailwindCSS
+    [4] Typescript
+    [5] Aceternity UI
+    [6] SENTERY
+    [7] shadcn
 
-To learn more about Next.js, take a look at the following resources:
+### 📊 GitHub Link
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Feel free to contact me if find my experience relevant to your project.
