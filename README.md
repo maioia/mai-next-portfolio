@@ -28,9 +28,10 @@ manner.]
     [2] Framer motion
     [3] TailwindCSS
     [4] Typescript
-    [5] Aceternity UI
+    [5] Aceternity UI [Grid and Dot Backgrounds - Text Generate Effect]
     [6] SENTERY
     [7] shadcn
+    [8] next themes for dark mode in next.js
 
 ### 📊 GitHub Link
 
