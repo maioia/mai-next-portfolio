@@ -17,10 +17,11 @@ manner.]
 
 ### Technical Skills ⚙️🛠️💪
 
-• Frontend: React.js, NEXT.js, HTML, CSS, JS, TypeScript, Redux, SASS.
-• CSS frameworks: Bootstrap - CSS Tailwind.
-• Version Control System : Git, Vercel, Netlify.
-• UI Design: Figma, Canva, AdobeXD, Photoshop, illustrator, Indesign.
+[•] Frontend: React.js, NEXT.js, HTML, CSS, JS, TypeScript, Redux, SASS.
+[•] CSS frameworks: Bootstrap - CSS Tailwind.
+[•] Version Control System : Git, Vercel, Netlify.
+[•] UI Design: Figma, Canva, AdobeXD, Photoshop, illustrator, Indesign.
+[•] Icons : React icons
 
 ### 💡 Portfolio tools used: ⚒️✍️💻
 
@@ -28,10 +29,9 @@ manner.]
     [2] Framer motion
     [3] TailwindCSS
     [4] Typescript
-    [5] Aceternity UI [Grid and Dot Backgrounds - Text Generate Effect]
+    [5] Aceternity UI [Grid and Dot Backgrounds - Text Generate Effect - floating Navbar]
     [6] SENTERY
-    [7] shadcn
-    [8] next themes for dark mode in next.js
+    [7] next themes for dark mode in next.js
 
 ### 📊 GitHub Link
 
